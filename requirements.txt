@@ -1,0 +1,9 @@
+argparse
+datetime
+lxml
+requests
+tqdm
+pillow
+numpy
+opencv-python
+colour-demosaicing

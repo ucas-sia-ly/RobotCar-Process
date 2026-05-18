@@ -1,0 +1,5 @@
+test.txt
+done_markers/
+outputs/
+current_run.txt
+__pycache__/
